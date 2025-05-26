@@ -1,4 +1,5 @@
 # 📚 Book Recommendation System
+[Book Recommendation App](https://xauwsbqco9c9h78tenxv4p.streamlit.app/)
 
 
 📝 Project Overview
@@ -70,7 +71,7 @@ Cosine similarity is precomputed and stored in similarity_scores.pkl.
 
 Clone the repository:
 
-git clone [(https://github.com/YShukla2024/-Book-Recommender-System)]
+git clone 
 cd book-recommender-system
 
 Install dependencies:
